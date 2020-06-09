@@ -10,10 +10,6 @@ class Page_3(Page):
     live_method = "live_slider"
 
 
-class Results(Page):
-    pass
-
-
 page_sequence = [
     Page_3
 ]
