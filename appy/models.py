@@ -51,4 +51,5 @@ class Player(BasePlayer):
     age = models.IntegerField()
     individual_judgment = models.IntegerField()
     mutual_judgment = models.IntegerField()
+    judgement1 = models.FloatField()
 
