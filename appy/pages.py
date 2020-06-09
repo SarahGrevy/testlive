@@ -15,5 +15,5 @@ class Page_3(Page):
 
 
 page_sequence = [
-    Judgement1, Page_3
+    Judgement_1, Page_3
 ]
